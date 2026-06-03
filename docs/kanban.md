@@ -17,3 +17,5 @@ El tablero permite dar seguimiento a las tareas del proyecto, asignar responsabl
 ## Evidencia
 
 Se agregan capturas del tablero Kanban dentro de la carpeta evidencias.
+## Registro de actualización
+Se actualizó la documentación del tablero Kanban para relacionarla correctamente con el Issue #3.
